@@ -1,1 +1,89 @@
-
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "Souls",
+		"player1": "bf1",
+		"player2": "sexlord",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"PopUp",
+						"a",
+						"200"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				190315.789473685,
+				[
+					[
+						"Change Character",
+						"dad",
+						"manofsex"
+					]
+				]
+			],
+			[
+				210526.315789474,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				210526.315789474,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sexlord"
+					]
+				]
+			],
+			[
+				219097.744360903,
+				[
+					[
+						"Change Character",
+						"dad",
+						"manofsex"
+					]
+				]
+			],
+			[
+				221954.887218046,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sexlord"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 168,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "souls"
+	}
+}
