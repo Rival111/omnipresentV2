@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lordsex.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lord x down0000" x="21" y="21" width="1582" height="1075"/>
+	<SubTexture name="lord x down0001" x="21" y="21" width="1582" height="1075"/>
+	<SubTexture name="lord x down0002" x="21" y="21" width="1582" height="1075"/>
+	<SubTexture name="lord x idle0008" x="21" y="1201" width="1582" height="1122"/>
+	<SubTexture name="lord x idle0009" x="21" y="1201" width="1582" height="1122"/>
+	<SubTexture name="lord x idle0010" x="21" y="1201" width="1582" height="1122"/>
+	<SubTexture name="lord x idle0011" x="21" y="1201" width="1582" height="1122"/>
+	<SubTexture name="lord x left0000" x="1662" y="1201" width="1582" height="1135" frameX="0" frameY="-7" frameWidth="1582" frameHeight="1142"/>
+	<SubTexture name="lord x left0001" x="1662" y="1201" width="1582" height="1135" frameX="0" frameY="-7" frameWidth="1582" frameHeight="1142"/>
+	<SubTexture name="lord x right0000" x="21" y="2401" width="1581" height="1103" frameX="0" frameY="-2" frameWidth="1581" frameHeight="1105"/>
+	<SubTexture name="lord x right0001" x="21" y="2401" width="1581" height="1103" frameX="0" frameY="-2" frameWidth="1581" frameHeight="1105"/>
+	<SubTexture name="lord x up0002" x="21" y="3603" width="1581" height="1090" frameX="0" frameY="-53" frameWidth="1581" frameHeight="1143"/>
+	<SubTexture name="lord x up0003" x="21" y="3603" width="1581" height="1090" frameX="0" frameY="-53" frameWidth="1581" frameHeight="1143"/>
+</TextureAtlas>

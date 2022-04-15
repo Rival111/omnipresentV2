@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sanic down0000" x="1" y="1" width="1384" height="1237"/>
+	<SubTexture name="sanic down0001" x="1386" y="1" width="1314" height="1097"/>
+	<SubTexture name="sanic idle0001" x="2701" y="1" width="1902" height="1763"/>
+	<SubTexture name="sanic left0000" x="1" y="1765" width="1793" height="1752"/>
+	<SubTexture name="sanic left0001" x="1795" y="1765" width="1851" height="1770"/>
+	<SubTexture name="sanic right0000" x="3647" y="1765" width="1659" height="1906"/>
+	<SubTexture name="sanic right0001" x="1" y="3672" width="1640" height="1920"/>
+	<SubTexture name="sanic up0000" x="1642" y="3672" width="1857" height="1978"/>
+	<SubTexture name="sanic up0001" x="3500" y="3672" width="1995" height="1934"/>
+</TextureAtlas>

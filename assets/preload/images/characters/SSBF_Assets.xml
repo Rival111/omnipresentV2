@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SSBF_Asssets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SSBF DOWN instance 10000" x="1" y="1" width="308" height="387" frameX="0" frameY="-8" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF DOWN instance 10001" x="309" y="1" width="303" height="394" frameX="-3" frameY="0" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF DOWN instance 10002" x="1" y="1" width="308" height="387" frameX="0" frameY="-8" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF DOWNmiss instance 10000" x="1" y="1" width="308" height="387" frameX="0" frameY="-8" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF DOWNmiss instance 10001" x="309" y="1" width="303" height="394" frameX="-3" frameY="0" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF DOWNmiss instance 10002" x="1" y="1" width="308" height="387" frameX="0" frameY="-8" frameWidth="308" frameHeight="395"/>
+	<SubTexture name="SSBF IDLE instance 10000" x="612" y="1" width="341" height="456"/>
+	<SubTexture name="SSBF LEFT instance 10000" x="1" y="457" width="286" height="415" frameX="-4" frameY="-5" frameWidth="290" frameHeight="420"/>
+	<SubTexture name="SSBF LEFT instance 10001" x="287" y="457" width="290" height="420"/>
+	<SubTexture name="SSBF LEFT instance 10002" x="1" y="457" width="286" height="415" frameX="-4" frameY="-5" frameWidth="290" frameHeight="420"/>
+	<SubTexture name="SSBF LEFTmiss instance 10000" x="1" y="457" width="286" height="415" frameX="-4" frameY="-5" frameWidth="290" frameHeight="420"/>
+	<SubTexture name="SSBF LEFTmiss instance 10001" x="287" y="457" width="290" height="420"/>
+	<SubTexture name="SSBF LEFTmiss instance 10002" x="1" y="457" width="286" height="415" frameX="-4" frameY="-5" frameWidth="290" frameHeight="420"/>
+	<SubTexture name="SSBF RIGHT instance 10000" x="577" y="457" width="362" height="482"/>
+	<SubTexture name="SSBF RIGHT instance 10001" x="1" y="939" width="354" height="479" frameX="-7" frameY="-3" frameWidth="362" frameHeight="482"/>
+	<SubTexture name="SSBF RIGHT instance 10002" x="577" y="457" width="362" height="482"/>
+	<SubTexture name="SSBF RIGHTmiss instance 10000" x="577" y="457" width="362" height="482"/>
+	<SubTexture name="SSBF RIGHTmiss instance 10001" x="1" y="939" width="354" height="479" frameX="-7" frameY="-3" frameWidth="362" frameHeight="482"/>
+	<SubTexture name="SSBF RIGHTmiss instance 10002" x="577" y="457" width="362" height="482"/>
+	<SubTexture name="SSBF UP instance 10000" x="355" y="939" width="289" height="477" frameX="-1" frameY="0" frameWidth="291" frameHeight="477"/>
+	<SubTexture name="SSBF UP instance 10001" x="644" y="939" width="291" height="472" frameX="0" frameY="-3" frameWidth="291" frameHeight="477"/>
+	<SubTexture name="SSBF UP instance 10002" x="355" y="939" width="289" height="477" frameX="-1" frameY="0" frameWidth="291" frameHeight="477"/>
+	<SubTexture name="SSBF UPmiss instance 10000" x="355" y="939" width="289" height="477" frameX="-1" frameY="0" frameWidth="291" frameHeight="477"/>
+	<SubTexture name="SSBF UPmiss instance 10001" x="644" y="939" width="291" height="472" frameX="0" frameY="-3" frameWidth="291" frameHeight="477"/>
+	<SubTexture name="SSBF UPmiss instance 10002" x="355" y="939" width="289" height="477" frameX="-1" frameY="0" frameWidth="291" frameHeight="477"/>
+</TextureAtlas>

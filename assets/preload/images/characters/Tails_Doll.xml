@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails_Doll.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TailsDoll DOWN instance 10000" x="0" y="0" width="501" height="500"/>
+	<SubTexture name="TailsDoll DOWN instance 10001" x="501" y="0" width="501" height="500"/>
+	<SubTexture name="TailsDoll DOWN instance 10002" x="1002" y="0" width="501" height="500"/>
+	<SubTexture name="TailsDoll DOWN instance 10003" x="1503" y="0" width="501" height="500"/>
+	<SubTexture name="TailsDoll DOWN instance 10004" x="2004" y="0" width="501" height="500"/>
+	<SubTexture name="TailsDoll IDLE instance 10000" x="0" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE instance 10001" x="0" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE instance 10002" x="541" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE instance 10003" x="1082" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE instance 10004" x="1623" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll LEFT instance 10000" x="0" y="1080" width="536" height="537"/>
+	<SubTexture name="TailsDoll LEFT instance 10001" x="0" y="1080" width="536" height="537"/>
+	<SubTexture name="TailsDoll LEFT instance 10002" x="536" y="1080" width="536" height="537"/>
+	<SubTexture name="TailsDoll LEFT instance 10003" x="1072" y="1080" width="536" height="537"/>
+	<SubTexture name="TailsDoll LEFT instance 10004" x="1608" y="1080" width="536" height="537"/>
+	<SubTexture name="TailsDoll RIGHT instance 10000" x="0" y="1617" width="534" height="534"/>
+	<SubTexture name="TailsDoll RIGHT instance 10001" x="0" y="1617" width="534" height="534"/>
+	<SubTexture name="TailsDoll RIGHT instance 10002" x="534" y="1617" width="534" height="534"/>
+	<SubTexture name="TailsDoll RIGHT instance 10003" x="1068" y="1617" width="534" height="534"/>
+	<SubTexture name="TailsDoll RIGHT instance 10004" x="1602" y="1617" width="534" height="534"/>
+	<SubTexture name="TailsDoll UP instance 10000" x="0" y="2155" width="539" height="538"/>
+	<SubTexture name="TailsDoll UP instance 10001" x="0" y="2155" width="539" height="538"/>
+	<SubTexture name="TailsDoll UP instance 10002" x="539" y="2155" width="539" height="538"/>
+	<SubTexture name="TailsDoll UP instance 10003" x="1078" y="2155" width="539" height="538"/>
+	<SubTexture name="TailsDoll UP instance 10004" x="1617" y="2155" width="539" height="538"/>
+</TextureAtlas>

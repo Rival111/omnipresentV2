@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lordgibberish.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sex down0000" x="0" y="0" width="1574" height="1056"/>
+	<SubTexture name="sex down0001" x="0" y="0" width="1574" height="1056"/>
+	<SubTexture name="sex idle0010" x="0" y="2292" width="1574" height="1162"/>
+	<SubTexture name="sex idle0011" x="0" y="2292" width="1574" height="1162"/>
+	<SubTexture name="sex left0004" x="0" y="3491" width="1574" height="1115" frameX="0" frameY="-2" frameWidth="1574" frameHeight="1117"/>
+	<SubTexture name="sex left0005" x="0" y="3491" width="1574" height="1115" frameX="0" frameY="-2" frameWidth="1574" frameHeight="1117"/>
+	<SubTexture name="sex right0006" x="0" y="4721" width="1574" height="1170" frameX="0" frameY="-23" frameWidth="1574" frameHeight="1193"/>
+	<SubTexture name="sex right0007" x="0" y="4721" width="1574" height="1170" frameX="0" frameY="-23" frameWidth="1574" frameHeight="1193"/>
+	<SubTexture name="sex up0006" x="0" y="5928" width="1574" height="1127" frameX="-69" frameY="-36" frameWidth="1643" frameHeight="1163"/>
+	<SubTexture name="sex up0007" x="0" y="5928" width="1574" height="1127" frameX="-69" frameY="-36" frameWidth="1643" frameHeight="1163"/>
+</TextureAtlas>
