@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				522,
+				143
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "majinleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "majinile"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "majinown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				104,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "majinup"
+		},
+		{
+			"offsets": [
+				90,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "majinright"
+		},
+		{
+			"offsets": [
+				81,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "majindarn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majin_Assets",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		126
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				434
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sex right"
+		},
+		{
+			"offsets": [
+				70,
+				401
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sex up"
+		},
+		{
+			"offsets": [
+				-6,
+				283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sex down"
+		},
+		{
+			"offsets": [
+				-6,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sex left"
+		},
+		{
+			"offsets": [
+				-6,
+				400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "sex idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lord_gibberish",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "menux",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		60,
+		95
+	],
+	"camera_position": [
+		-260,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
