@@ -1,0 +1,45 @@
+{
+	"storyName": "14 minutes of hell lmaoooooooooo",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"omnipresent",
+			"fleetway",
+			[
+				255,
+				235,
+				75
+			],
+			"quadruple-quarrel",
+			"fleetway",
+			[
+				255,
+				235,
+				75
+			],
+			"souls",
+			"fleetway",
+			[
+				255,
+				235,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
